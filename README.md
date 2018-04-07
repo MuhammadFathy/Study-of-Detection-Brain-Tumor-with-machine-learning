@@ -1,0 +1,2 @@
+# Study-of-Detection-Brain-Tumor-with-machine-learning
+Tumor is an uncontrolled growth of tissues in any part of the body. Tumors are of different types and hence they have different treatments. Detection of tumor in the earlier stages makes the treatment possible. Here we review different segmentation methods associated with feature extraction from Magnetic Resonance Imaging (MRI) of brain. We also discuss different machine learning and classification algorithms that use to classify normal and cancerous tissues. Finally, we propose an automatic tumor detection system
